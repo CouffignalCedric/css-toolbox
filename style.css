@@ -1,0 +1,14 @@
+
+.wrapper>:not(.full-bleed) {
+    text-align: center;
+    /* border: 2px solid; */
+    width: 680px;
+    max-width: 50vw;
+    margin: auto;
+    padding: 10px;
+}
+
+.full-bleed {
+    width: 100vw;
+    border: 1px solid;
+}
